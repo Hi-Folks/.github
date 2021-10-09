@@ -5,9 +5,10 @@ I'm Roberto and I love :heart: working on open source side projects.
 
 ### Main projects
 Currently I'm working on:
-- Ghygen: :robot: create automatically GitHub actions workflow for Laravel / PHP projects;
-- RandPHP: :four_leaf_clover: generates random stuff in PHP;
-- Laralens: :eyeglasses: show/display useful informations from your Laravel application;
+- [Ghygen](https://github.com/Hi-Folks/gh-actions-yaml-generator): :robot: create automatically GitHub actions workflow for Laravel / PHP projects;
+- [RandPHP](https://github.com/Hi-Folks/rando-php): :four_leaf_clover: generates random stuff in PHP;
+- [Laralens](https://github.com/Hi-Folks/lara-lens): :eyeglasses: show/display useful informations from your Laravel application;
+- [MilkSdkPhp](https://github.com/Hi-Folks/milk-sdk-php): :worldmap: open-source PHP library that makes it easy to integrate your PHP application with location services like Routing API, Geocoding API, Search Places API, Weather API, Isoline API etc ...
 - ... take a look :books: https://github.com/orgs/Hi-Folks/repositories.
 
 ### You are welcome!
