@@ -5,6 +5,7 @@ I'm Roberto and I love :heart: working on open source side projects.
 
 ### Main projects
 Currently I'm working on:
+- [Fusion](https://github.com/Hi-Folks/fusion): 🕸️ Fusion is a Laravel package designed to manage Markdown content via Eloquent Models.
 - [Ibis Next](https://github.com/Hi-Folks/ibis-next): 📖 a PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
 - [Statistics](https://github.com/Hi-Folks/statistics): :abacus: PHP package that provides functions for calculating mathematical statistics of numeric data;
 - [Laralens](https://github.com/Hi-Folks/lara-lens): :eyeglasses: show/display useful informations from your Laravel application;
