@@ -1,6 +1,16 @@
-![Hi Folks!](https://raw.githubusercontent.com/Hi-Folks/.github/main/hi-folks-cover.png)
-Hi 👋 Folks!
-I'm Roberto and I love :heart: working on Open Source side projects.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Hi-Folks/.github/main/hi-folks-cover.png" alt="Hi Folks! Open source repositoy projects" width="600">
+</p>
+
+<p align=center>
+    <i>
+        Hi 👋 Folks!
+    </i>
+</p>
+<p align=center>
+    I'm Roberto and I love :heart: working on Open Source side projects.
+</p>
+
 
 ### Main projects
 Currently I'm working on:
