@@ -14,6 +14,7 @@
 
 ### Main projects
 Currently I'm working on:
+- [PHP Data Block](https://github.com/Hi-Folks/data-block): 🧙 PHP Package for handling, querying, filtering, and setting nested data structures (arrays, JSON, YAML etc).
 - [Fusion](https://github.com/Hi-Folks/fusion): 🕸️ Fusion is a Laravel package designed to manage Markdown content via Eloquent Models.
 - [Ibis Next](https://github.com/Hi-Folks/ibis-next): 📖 a PHP tool that helps you write eBooks in markdown and convert to PDF and EPUB
 - [Statistics](https://github.com/Hi-Folks/statistics): :abacus: PHP package that provides functions for calculating mathematical statistics of numeric data;
